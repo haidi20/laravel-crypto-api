@@ -4,7 +4,7 @@ The project try implement one of API from Crypto Api's.
 
 ## View Result Get Data
 
-![plot](https://github.com/haidi20/website-dinas-pariwisata/blob/master/public/images/par%20-%20images.png)
+![plot](https://github.com/haidi20/laravel-crypto-api/blob/master/public/result%20from%20crypto%20api.PNG)
 
 ## How to Install on Local Environment
 
